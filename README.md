@@ -60,10 +60,10 @@ sh
 4. Use the queries.sql file as a reference to execute SQL queries against your newly created database. You can copy and paste the queries from queries.sql into your SQL client to see the results.
 <!-- AUTHORS -->
 ## :busts_in_silhouette: Authors <a name="authors"></a>
-:bust_in_silhouette: **Omoma Ighawosa**
+:bust_in_silhouette: **OBI CLEMENTINA**
 - GitHub: (https://github.com/Clementify/WEEK_SEVEN_LESSON_TWO_OBI_CLEMENTINA)
 - LinkedIn:(https://www.linkedin.com/in/clemsify/)
-- Twitter: ())
+- Twitter: (https://twitter.com/Clementinaify)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
 ## :handshake: Contributing <a name="contributing"></a>
